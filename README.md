@@ -8,3 +8,5 @@ apt update && apt upgrade -y && pkg install python3 -y && pkg install git -y && 
 ```
 <b>After installing</b>
 » <i>Navigate to the folder and Enter</i> <b>banana</b> <i>to sort the files in the folder.</i>
+
+![Alt Text](G_20220621_1634344.gif)
